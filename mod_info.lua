@@ -1,0 +1,11 @@
+name = "No Air Crash Damage"
+uid = "11111122-1337-416a-9d76-aac3bb171000"
+version = 1
+copyright = "EntropyWins"
+description = "Removes the crash damage of air units"
+author = "EntropyWins"
+selectable = true
+ui_only = false
+enabled = true
+url = "https://github.com/JeroenDeDauw/NoAirCrashDamage"
+icon = "/mods/NoAirCrashDamage/icon.png"
