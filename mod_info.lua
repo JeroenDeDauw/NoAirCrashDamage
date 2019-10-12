@@ -1,6 +1,6 @@
 name = "No Air Crash Damage"
 uid = "11111122-1337-416a-9d76-aac3bb171000"
-version = 1
+version = 2
 copyright = "EntropyWins"
 description = "Removes the crash damage of air units"
 author = "EntropyWins"
